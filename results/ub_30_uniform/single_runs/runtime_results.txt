@@ -1,0 +1,4 @@
+result_em.txt	4061.6653
+result_linear.txt	864.7540
+result_emd.txt	232.8430
+result_majority.txt	123.2610

@@ -1,0 +1,3 @@
+result_pmm.txt	327.0032
+result_pmm.txt	49064.6294
+result_pmm.txt	61732.5819

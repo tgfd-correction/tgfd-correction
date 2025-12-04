@@ -1,0 +1,7 @@
+UBs_correct	1986
+UBs_total	3700
+Matches_correct	12719
+Matches_total	4295014
+Precision	0.002961340754651789
+Recall	0.002961340754651789
+F1	0.002961340754651789

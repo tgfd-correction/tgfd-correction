@@ -1,0 +1,4 @@
+result_0.txt	1071.4282
+result_3.txt	1074.1966
+result_2.txt	1077.4255
+result_1.txt	1077.9688

@@ -1,0 +1,16 @@
+result_13.txt	329.2565
+result_0.txt	329.8456
+result_15.txt	329.8830
+result_14.txt	332.3359
+result_10.txt	333.0171
+result_11.txt	333.1461
+result_12.txt	333.2747
+result_1.txt	333.2349
+result_2.txt	328.5710
+result_8.txt	325.0893
+result_3.txt	329.4172
+result_4.txt	329.4869
+result_7.txt	326.2102
+result_9.txt	326.3383
+result_6.txt	328.0559
+result_5.txt	329.3110

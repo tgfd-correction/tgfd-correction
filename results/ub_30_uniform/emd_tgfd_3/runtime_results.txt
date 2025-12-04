@@ -1,0 +1,16 @@
+result_roles_14.txt	745.1497
+result_roles_12.txt	745.9459
+result_roles_13.txt	746.7912
+result_roles_1.txt	747.1429
+result_roles_11.txt	747.2338
+result_roles_0.txt	747.6791
+result_roles_15.txt	747.9126
+result_roles_10.txt	748.6103
+result_roles_4.txt	732.9545
+result_roles_3.txt	736.7287
+result_roles_7.txt	734.9846
+result_roles_2.txt	737.8832
+result_roles_5.txt	736.5883
+result_roles_6.txt	737.4475
+result_roles_8.txt	736.7542
+result_roles_9.txt	737.1837

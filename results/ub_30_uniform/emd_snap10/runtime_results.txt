@@ -1,0 +1,16 @@
+result_12.txt	163.0457
+result_0.txt	163.4959
+result_14.txt	164.4889
+result_13.txt	164.7928
+result_15.txt	165.0178
+result_1.txt	165.0975
+result_10.txt	165.1700
+result_11.txt	167.0076
+result_2.txt	163.4479
+result_5.txt	162.9007
+result_8.txt	162.5808
+result_4.txt	163.2310
+result_7.txt	163.1523
+result_6.txt	163.3637
+result_3.txt	165.0332
+result_9.txt	162.9288
